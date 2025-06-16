@@ -1,0 +1,9 @@
+{
+    "agents": [
+        {
+            "name": "search_evaluator",
+            "path": "search_evaluator_agent",
+            "agent": "root_agent"
+        }
+    ]
+}
